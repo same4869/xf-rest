@@ -1,0 +1,4 @@
+<resources>
+    <string name="net_error_message_toast">网络不好，请稍后再试</string>
+    <string name="net_unknown_error_message_toast">发生未知错误，请稍后再试</string>
+</resources>
